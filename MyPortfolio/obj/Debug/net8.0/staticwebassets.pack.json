@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\freelancer.css",
+      "PackagePath": "staticwebassets\\css\\freelancer.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\all.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\1216376-new-dark-abstract-wallpapers-hd-2560x1440-for-android-50.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1216376-new-dark-abstract-wallpapers-hd-2560x1440-for-android-50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\179.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\179.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\184.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\184.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\1_QpkU690MioKK7lHwLE0_Bg.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1_QpkU690MioKK7lHwLE0_Bg.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\2-nature-wallpaper-grass.1280.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2-nature-wallpaper-grass.1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\204.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\261.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\261.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\762.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\762.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\ahmed tartour.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\ahmed tartour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\angry.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\angry.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\commercial.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\commercial.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\ecole.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\ecole.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\flappy.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\flappy.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\gps.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\gps.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\home1.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\home1.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\freelancer.min.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abdel\\OneDrive\\Documents\\.Net Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
